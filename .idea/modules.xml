@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm-in-Java.iml" filepath="$PROJECT_DIR$/.idea/Algorithm-in-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bjo/bjo.iml" filepath="$PROJECT_DIR$/bjo/bjo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgm/pgm.iml" filepath="$PROJECT_DIR$/pgm/pgm.iml" />
     </modules>
   </component>
 </project>
